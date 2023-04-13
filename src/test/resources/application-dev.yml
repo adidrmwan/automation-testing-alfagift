@@ -1,0 +1,9 @@
+spring:
+  profiles: dev
+
+config:
+  android:
+    appPackage: "com.alfamart.alfagift"
+    appActivity: "com.alfamart.alfagift.screen.splash.SplashActivity"
+    appPath: /APP/apps.apk
+    name: "Alfagift"
